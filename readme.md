@@ -14,7 +14,7 @@ echo "hello" | wsscat -c ws://localhost:3000
 
 ## Install
 ```
-npm install -g seanewest/wsscat
+npm install -g wsscat
 ```
 
 ## Usage
