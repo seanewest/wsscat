@@ -1,6 +1,6 @@
 {
   "name": "wsscat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pipe to websocket servers or clients from the command-line",
   "bin": "cmd.js",
   "author": "Sean West",
